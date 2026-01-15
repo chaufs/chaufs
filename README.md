@@ -1,6 +1,6 @@
 <h2> Hello! I'm Geoff! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-![](https://komarev.com/ghpvc/?username=chaufs&color=maroon&label=Visitors)
+![](https://komarev.com/ghpvc/?username=chaufs&color=blueviolet&label=Visitors)
 - Student
 - Still Learning
 
