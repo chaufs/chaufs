@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geoff Patrick Granada</h1>
-<h3 align="center">Live life one day at a time</h3>
+<h3 align="center"><em>El que mucho abarca, poco aprieta</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaufs&label=Profile%20views&color=0e75b6&style=flat" alt="chaufs" /> </p>
 
